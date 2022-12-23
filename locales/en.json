@@ -1,0 +1,11 @@
+{
+  "links": {
+    "home": "Home",
+    "announcements": "Announcements",
+    "en": "English",
+    "ja": "Japanese"
+  },
+  "home": {
+    "title": "sample-support-kuroco-en"
+  }
+}
